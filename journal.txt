@@ -5,5 +5,10 @@ Heading1 suprabiology
 Intro what needs doing
 results what was done
 discussion why the above two are not the same
+<<<<<<< HEAD
 extras on the end
 second lot of rubbish I don't want
+=======
+
+
+>>>>>>> parent of aaed923... messings on end can't seem to get rid of them
