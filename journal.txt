@@ -1,6 +1,6 @@
-Title
-Author
-Heading1
+Title what I should be doing today
+Author Me
+Heading1 not here yet
 Intro
 results
 discussion
