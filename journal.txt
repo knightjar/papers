@@ -5,6 +5,6 @@ Heading1 suprabiology
 Intro what needs doing
 results what was done
 discussion why the above two are not the same
-I think I've sorted this now
+here's some replacement text
 extras on the end
 more conflict...
