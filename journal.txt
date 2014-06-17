@@ -1,6 +1,6 @@
 Title Alternative title 1
 Author
-Heading1
+Heading 2
 Intro
 results
 discussion
