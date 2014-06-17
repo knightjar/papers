@@ -1,8 +1,8 @@
 Title what I should be doing today
 Author Me
 Heading1 not here yet
-Intro
-results
-discussion
+Intro what needs doing
+results what was done
+discussion why the above two are not the same
 
 
